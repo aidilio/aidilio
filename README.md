@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Aidil
+- 👀 I’m interested in .NET
